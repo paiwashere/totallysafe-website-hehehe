@@ -1,0 +1,22 @@
+body {
+  background: white;
+  font-family: monospace;
+  width: 350px;
+  margin: 2em auto;
+  text-align: center;
+  border: 3px double turquoise;
+  font-size: 14px;
+}
+
+a {
+  text-decoration: underline double;
+  color: salmon;
+}
+
+a:hover {
+  text-decoration-style: wavy;
+}
+
+details {
+  margin-bottom: 1em;
+}
